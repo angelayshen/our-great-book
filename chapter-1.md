@@ -1,5 +1,6 @@
 # Eaque ipsa quae ab illo inventore veritatis et quasi.
 
+Laboris nisi ut aliquip ex ea commodo consequat. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Adding some edits to the first chapter.
 Laboris nisi ut aliquip ex ea commodo consequat. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Actually, I think different text should go here.
 
 __ugiat quo voluptas nulla pariatur?__ *Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.* Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
